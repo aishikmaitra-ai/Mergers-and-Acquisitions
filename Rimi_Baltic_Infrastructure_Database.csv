@@ -1,0 +1,5 @@
+Store_ID,Country,City,Store_Format,Warehouse_Capacity_Tons,Distribution_Center,Automation_Level_%,POS_Systems_Count,Ecommerce_Fulfillment_Center,IT_Staff_Count,Energy_Efficiency_Score
+RIMI-001,Latvia,Riga,Hypermarket,12000,Riga DC,75,45,Yes,120,72
+RIMI-002,Estonia,Tallinn,Supermarket,8000,Tallinn DC,68,30,Yes,90,70
+RIMI-003,Lithuania,Vilnius,Mini,5000,Vilnius DC,60,18,No,65,66
+RIMI-004,Latvia,Daugavpils,Express,3000,Riga DC,55,12,No,40,63

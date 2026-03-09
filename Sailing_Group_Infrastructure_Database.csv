@@ -1,0 +1,5 @@
+Store_ID,Country,City,Store_Format,Warehouse_Capacity_Tons,Distribution_Center,Automation_Level_%,POS_Systems_Count,Ecommerce_Fulfillment_Center,IT_Staff_Count,Energy_Efficiency_Score
+SALL-101,Denmark,Aarhus,Bilka,25000,Aarhus Mega DC,88,110,Yes,420,85
+SALL-102,Denmark,Copenhagen,føtex,18000,Copenhagen DC,82,85,Yes,350,83
+SALL-103,Germany,Hamburg,Netto,15000,Hamburg DC,78,70,Yes,280,80
+SALL-104,Poland,Warsaw,Netto,13000,Warsaw DC,74,65,Yes,260,77
