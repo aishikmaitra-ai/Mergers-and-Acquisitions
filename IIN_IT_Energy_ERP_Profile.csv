@@ -1,0 +1,21 @@
+Store_ID,City,Store_Format,Automation_Level_%,POS_Systems_Count,Ecommerce_Fulfillment_Center,IT_Staff_Count,Energy_Efficiency_Score,ERP_System,Energy_Source,Energy_Rating,Avg_kWh_per_sqm
+IIN001,Ahmedabad,Mini,78,3,Yes,5,70,Oracle Fusion,Solar+Grid,B+,10.8
+IIN002,Bengaluru,Supermarket,48,7,No,7,57,SAP S/4HANA,Grid,B,12.4
+IIN003,Hyderabad,Supermarket,60,9,Yes,7,69,Tally ERP 9,Solar+Grid,B+,19.8
+IIN004,Chennai,Express,75,7,No,5,76,Microsoft Dynamics 365,Solar+Grid,A,11.1
+IIN005,Mumbai,Hypermarket,85,9,Yes,2,79,SAP S/4HANA,Diesel+Grid,A,24.9
+IIN006,Bengaluru,Supermarket,53,7,No,5,89,SAP S/4HANA,Diesel+Grid,A+,9.6
+IIN007,Mumbai,Supermarket,54,10,Yes,5,59,SAP S/4HANA,Solar+Grid,B,12.6
+IIN008,Bengaluru,Hypermarket,84,11,Yes,3,61,Tally ERP 9,Diesel+Grid,B,17.1
+IIN009,Delhi,Mini,86,4,No,3,77,Oracle Fusion,Solar+Grid,A,13.3
+IIN010,Bengaluru,Hypermarket,62,10,Yes,5,65,Tally ERP 9,Diesel+Grid,B+,13.4
+IIN011,Hyderabad,Express,67,8,No,3,69,SAP S/4HANA,Solar+Grid,B+,24.1
+IIN012,Bengaluru,Hypermarket,87,12,Yes,2,68,Microsoft Dynamics 365,Grid,B+,21.1
+IIN013,Mumbai,Mini,87,6,Yes,3,71,Oracle Fusion,Grid,B+,22.9
+IIN014,Delhi,Express,62,7,No,8,80,Microsoft Dynamics 365,Grid,A+,27.9
+IIN015,Mumbai,Hypermarket,64,13,No,2,58,SAP S/4HANA,Grid,B,20.5
+IIN016,Pune,Mini,73,2,Yes,6,79,Tally ERP 9,Solar+Grid,A,13.0
+IIN017,Chennai,Supermarket,60,8,No,4,76,SAP S/4HANA,Solar+Grid,A,13.9
+IIN018,Bengaluru,Express,50,8,No,2,71,Oracle Fusion,Solar+Grid,B+,26.3
+IIN019,Bengaluru,Mini,84,4,No,2,78,Oracle Fusion,Solar+Grid,A,27.1
+IIN020,Ahmedabad,Supermarket,91,7,No,3,86,SAP S/4HANA,Solar+Grid,A+,10.2
